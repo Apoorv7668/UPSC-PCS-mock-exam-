@@ -1,6 +1,6 @@
-<!-- # UPSC & PCS Quiz Generator
-<img src ="https://github.com/Apoorv7668/UPSC-mock-exam-app/blob/main/Screenshot%202025-04-10%20224518.png" alt="MLBC">
-https://github.com/Apoorv7668/UPSC-mock-exam-app/blob/main/Screenshot%202025-04-10%20224518.png -->
+# UPSC & PCS Quiz Generator
+<img src ="https://github.com/Apoorv7668/UPSC-PCS-mock-exam-/blob/main/Screenshot%202025-04-10%20224518.png" alt="MLBC"> 
+<!-- https://github.com/Apoorv7668/UPSC-mock-exam-app/blob/main/Screenshot%202025-04-10%20224518.png --> -->
 
 ### Problem Statement
 The UPSC (Union Public Service Commission) and PCS (Provincial Civil Service) exam preparation process faces several challenges:
